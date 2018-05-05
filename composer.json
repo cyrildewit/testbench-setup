@@ -1,0 +1,23 @@
+{
+    "name": "cyrildewit/testbench-setup",
+    "type": "project",
+    "require-dev": {
+        "orchestra/testbench-dusk": "^3.5",
+        "phpunit/phpunit": "^6.5",
+        "orchestra/testbench": "^3.5",
+        "orchestra/testbench-browser-kit": "^3.5",
+        "orchestra/database": "^3.5",
+        "laravel/framework": "^5.5"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CyrildeWit\\TestbenchSetup\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cyril de Wit",
+            "email": "cyrilwit@gmail.com"
+        }
+    ]
+}

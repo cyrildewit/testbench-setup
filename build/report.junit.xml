@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="CyrildeWit\TestbenchSetup\Tests\Browser\RouteTest" file="C:\Workspace\Code\GitHub\testbench-setup\tests\Browser\RouteTest.php" tests="1" assertions="0" errors="1" failures="0" skipped="0" time="0.800642">
+    <testcase name="can_use_dusk" class="CyrildeWit\TestbenchSetup\Tests\Browser\RouteTest" classname="CyrildeWit.TestbenchSetup.Tests.Browser.RouteTest" file="C:\Workspace\Code\GitHub\testbench-setup\tests\Browser\RouteTest.php" line="35" assertions="0" time="0.800642">
+      <error type="Error">CyrildeWit\TestbenchSetup\Tests\Browser\RouteTest::can_use_dusk
+Error: Call to undefined method CyrildeWit\TestbenchSetup\Tests\Browser\RouteTest::resetWebRoutesFile()
+
+C:\Workspace\Code\GitHub\testbench-setup\tests\CreatesApplication.php:23
+</error>
+    </testcase>
+  </testsuite>
+</testsuites>
